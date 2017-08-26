@@ -1,0 +1,25 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "React app to make call to proximity service api",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "keywords": [
+    "Code",
+    "challenge"
+  ],
+  "author": "Vignesh Aravindan",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "gapi": "0.0.3",
+    "gapi-client": "0.0.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  }
+}
